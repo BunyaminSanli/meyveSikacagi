@@ -1,0 +1,10 @@
+C:\Users\bunya\Desktop\proje9\Proje_Odevi\Proje_Odevi\bin\Debug\Proje_Odevi.exe.config
+C:\Users\bunya\Desktop\proje9\Proje_Odevi\Proje_Odevi\bin\Debug\Proje_Odevi.exe
+C:\Users\bunya\Desktop\proje9\Proje_Odevi\Proje_Odevi\bin\Debug\Proje_Odevi.pdb
+C:\Users\bunya\Desktop\proje9\Proje_Odevi\Proje_Odevi\obj\Debug\Proje_Odevi.csprojAssemblyReference.cache
+C:\Users\bunya\Desktop\proje9\Proje_Odevi\Proje_Odevi\obj\Debug\Proje_Odevi.Form1.resources
+C:\Users\bunya\Desktop\proje9\Proje_Odevi\Proje_Odevi\obj\Debug\Proje_Odevi.Properties.Resources.resources
+C:\Users\bunya\Desktop\proje9\Proje_Odevi\Proje_Odevi\obj\Debug\Proje_Odevi.csproj.GenerateResource.cache
+C:\Users\bunya\Desktop\proje9\Proje_Odevi\Proje_Odevi\obj\Debug\Proje_Odevi.csproj.CoreCompileInputs.cache
+C:\Users\bunya\Desktop\proje9\Proje_Odevi\Proje_Odevi\obj\Debug\Proje_Odevi.exe
+C:\Users\bunya\Desktop\proje9\Proje_Odevi\Proje_Odevi\obj\Debug\Proje_Odevi.pdb

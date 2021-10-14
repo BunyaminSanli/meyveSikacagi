@@ -1,0 +1,10 @@
+D:\GitHub\meyveSikacagi\Proje_Odevi\Proje_Odevi\bin\Debug\Proje_Odevi.exe.config
+D:\GitHub\meyveSikacagi\Proje_Odevi\Proje_Odevi\bin\Debug\Proje_Odevi.exe
+D:\GitHub\meyveSikacagi\Proje_Odevi\Proje_Odevi\bin\Debug\Proje_Odevi.pdb
+D:\GitHub\meyveSikacagi\Proje_Odevi\Proje_Odevi\obj\Debug\MeyveSikacagi.csproj.AssemblyReference.cache
+D:\GitHub\meyveSikacagi\Proje_Odevi\Proje_Odevi\obj\Debug\Proje_Odevi.Form1.resources
+D:\GitHub\meyveSikacagi\Proje_Odevi\Proje_Odevi\obj\Debug\Proje_Odevi.Properties.Resources.resources
+D:\GitHub\meyveSikacagi\Proje_Odevi\Proje_Odevi\obj\Debug\MeyveSikacagi.csproj.GenerateResource.cache
+D:\GitHub\meyveSikacagi\Proje_Odevi\Proje_Odevi\obj\Debug\MeyveSikacagi.csproj.CoreCompileInputs.cache
+D:\GitHub\meyveSikacagi\Proje_Odevi\Proje_Odevi\obj\Debug\Proje_Odevi.exe
+D:\GitHub\meyveSikacagi\Proje_Odevi\Proje_Odevi\obj\Debug\Proje_Odevi.pdb
